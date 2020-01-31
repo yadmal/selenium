@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9261973-f282-4de7-b7c0-8a6f2dca045e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/less_51_difficult_actions/DifficultActionsMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/less_52_JavaScript/JavaScriptMainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less_51_difficult_actions/DifficultActionsMainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_51_difficult_actions/DifficultActionsMainClass.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +63,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DifficultActionsMainClass">
+  <component name="RunManager" selected="Application.JavaScriptMainClass">
     <configuration name="DifficultActionsMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="less_51_difficult_actions.DifficultActionsMainClass" />
       <module name="projectMaven" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="less_51_difficult_actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaScriptMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="less_52_JavaScript.JavaScriptMainClass" />
+      <module name="projectMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="less_52_JavaScript.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,20 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mainClass" />
-      <module name="projectMaven" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaScriptMainClass" />
         <item itemvalue="Application.DifficultActionsMainClass" />
         <item itemvalue="Application.MainClass (1)" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.mainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +148,7 @@
       <workItem from="1580383094304" duration="26817000" />
       <workItem from="1580448100838" duration="1205000" />
       <workItem from="1580475212488" duration="7312000" />
-      <workItem from="1580502301971" duration="1045000" />
+      <workItem from="1580502301971" duration="2700000" />
     </task>
     <servers />
   </component>

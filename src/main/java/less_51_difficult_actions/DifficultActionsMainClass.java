@@ -10,7 +10,7 @@ import org.openqa.selenium.interactions.Actions;
 public class DifficultActionsMainClass {
     public static void main(String[] args) {
         System.setProperty("webdriver.gecko.driver", "C:\\seleniumWebDrivers\\geckoDrivers\\geckodriver.exe");
-        System.setProperty("webdriver.gecko.driver", "C:\\seleniumWebDrivers\\geckoDrivers\\chromedriver_79.0.3945.36.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\seleniumWebDrivers\\chromeDrivers\\chromedriver_79.0.3945.36.exe");
         WebDriver chromeDriver = new ChromeDriver();
 //        chromeDriver.manage().window().maximize();
 
