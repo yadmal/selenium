@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9261973-f282-4de7-b7c0-8a6f2dca045e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/less_53_JavaScript_Alert/JavaScriptAlertMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/less_54_windows_of_browser/WindowsOfBrowserMainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaScriptAlertMainClass">
+  <component name="RunManager" selected="Application.WindowsOfBrowserMainClass">
     <configuration name="DifficultActionsMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="less_51_difficult_actions.DifficultActionsMainClass" />
       <module name="projectMaven" />
@@ -115,20 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainClass" />
+    <configuration name="WindowsOfBrowserMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="less_54_windows_of_browser.WindowsOfBrowserMainClass" />
       <module name="projectMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="less_54_windows_of_browser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WindowsOfBrowserMainClass" />
         <item itemvalue="Application.JavaScriptAlertMainClass" />
         <item itemvalue="Application.JavaScriptMainClass" />
         <item itemvalue="Application.DifficultActionsMainClass" />
         <item itemvalue="Application.MainClass (1)" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +160,8 @@
       <workItem from="1580448100838" duration="1205000" />
       <workItem from="1580475212488" duration="7312000" />
       <workItem from="1580502301971" duration="3542000" />
-      <workItem from="1580541051736" duration="1536000" />
+      <workItem from="1580541051736" duration="3541000" />
+      <workItem from="1580559960711" duration="2076000" />
     </task>
     <servers />
   </component>
