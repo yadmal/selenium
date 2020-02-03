@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9261973-f282-4de7-b7c0-8a6f2dca045e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/less_60_upload_files/UploadFilesMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/PageObjectMainPageMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/SignUpPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -165,6 +168,7 @@
       <workItem from="1580580652803" duration="5124000" />
       <workItem from="1580720227932" duration="1163000" />
       <workItem from="1580729772533" duration="5641000" />
+      <workItem from="1580758548784" duration="6104000" />
     </task>
     <servers />
   </component>
