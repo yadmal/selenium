@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9261973-f282-4de7-b7c0-8a6f2dca045e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/less_59_screenshots/ScreenshotsMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/less_60_upload_files/UploadFilesMainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,26 +62,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScreenshotsMainClass">
+  <component name="RunManager" selected="Application.UploadFilesMainClass">
     <configuration name="AvailabilityOfElementsMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="less_56_check_availability_of_elements.AvailabilityOfElementsMainClass" />
       <module name="projectMaven" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="less_56_check_availability_of_elements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InlayOfBrowserMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less_55_inlay_of_browser.InlayOfBrowserMainClass" />
-      <module name="projectMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="less_55_inlay_of_browser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,13 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UploadFilesMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="less_60_upload_files.UploadFilesMainClass" />
+      <module name="projectMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="less_60_upload_files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UploadFilesMainClass" />
         <item itemvalue="Application.ScreenshotsMainClass" />
         <item itemvalue="Application.KeyboardKeysMainClass" />
         <item itemvalue="Application.PresenceOfElementsMainClass" />
         <item itemvalue="Application.AvailabilityOfElementsMainClass" />
-        <item itemvalue="Application.InlayOfBrowserMainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,7 @@
       <workItem from="1580559960711" duration="6414000" />
       <workItem from="1580580652803" duration="5124000" />
       <workItem from="1580720227932" duration="1163000" />
-      <workItem from="1580729772533" duration="3618000" />
+      <workItem from="1580729772533" duration="5641000" />
     </task>
     <servers />
   </component>
