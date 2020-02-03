@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9261973-f282-4de7-b7c0-8a6f2dca045e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/less_58_keys_on_the_keyboard/KeyboardKeysMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/less_59_screenshots/ScreenshotsMainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KeyboardKeysMainClass">
+  <component name="RunManager" selected="Application.ScreenshotsMainClass">
     <configuration name="AvailabilityOfElementsMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="less_56_check_availability_of_elements.AvailabilityOfElementsMainClass" />
       <module name="projectMaven" />
@@ -115,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowsOfBrowserMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less_54_windows_of_browser.WindowsOfBrowserMainClass" />
+    <configuration name="ScreenshotsMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="less_59_screenshots.ScreenshotsMainClass" />
       <module name="projectMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="less_54_windows_of_browser.*" />
+          <option name="PATTERN" value="less_59_screenshots.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScreenshotsMainClass" />
         <item itemvalue="Application.KeyboardKeysMainClass" />
         <item itemvalue="Application.PresenceOfElementsMainClass" />
         <item itemvalue="Application.AvailabilityOfElementsMainClass" />
         <item itemvalue="Application.InlayOfBrowserMainClass" />
-        <item itemvalue="Application.WindowsOfBrowserMainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,7 @@
       <workItem from="1580559960711" duration="6414000" />
       <workItem from="1580580652803" duration="5124000" />
       <workItem from="1580720227932" duration="1163000" />
-      <workItem from="1580729772533" duration="1976000" />
+      <workItem from="1580729772533" duration="3618000" />
     </task>
     <servers />
   </component>
