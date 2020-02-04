@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9261973-f282-4de7-b7c0-8a6f2dca045e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/PageObjectMainPageMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/SignUpPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/PageObjectMainPageMainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/PageObjectMainPageMainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/SignUpPage.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,13 +65,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UploadFilesMainClass">
-    <configuration name="AvailabilityOfElementsMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less_56_check_availability_of_elements.AvailabilityOfElementsMainClass" />
+  <component name="RunManager" selected="Application.PageObjectMainPageMainClass">
+    <configuration name="KeyboardKeysMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="less_58_keys_on_the_keyboard.KeyboardKeysMainClass" />
       <module name="projectMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="less_56_check_availability_of_elements.*" />
+          <option name="PATTERN" value="less_58_keys_on_the_keyboard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyboardKeysMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less_58_keys_on_the_keyboard.KeyboardKeysMainClass" />
+    <configuration name="PageObjectMainPageMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="less_64_67_PageObject.PageObjectMainPageMainClass" />
       <module name="projectMaven" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="less_58_keys_on_the_keyboard.*" />
+          <option name="PATTERN" value="less_64_67_PageObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PageObjectMainPageMainClass" />
         <item itemvalue="Application.UploadFilesMainClass" />
         <item itemvalue="Application.ScreenshotsMainClass" />
         <item itemvalue="Application.KeyboardKeysMainClass" />
         <item itemvalue="Application.PresenceOfElementsMainClass" />
-        <item itemvalue="Application.AvailabilityOfElementsMainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +168,9 @@
       <workItem from="1580580652803" duration="5124000" />
       <workItem from="1580720227932" duration="1163000" />
       <workItem from="1580729772533" duration="5641000" />
-      <workItem from="1580758548784" duration="6104000" />
+      <workItem from="1580758548784" duration="6318000" />
+      <workItem from="1580795680062" duration="611000" />
+      <workItem from="1580812710798" duration="3618000" />
     </task>
     <servers />
   </component>

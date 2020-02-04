@@ -1,4 +1,4 @@
-package less_64_PageObject_MainPage;
+package less_64_67_PageObject;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
