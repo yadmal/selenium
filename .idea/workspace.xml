@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f9261973-f282-4de7-b7c0-8a6f2dca045e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/PageObjectMainPageMainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/PageObjectMainPageMainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_PageObject_MainPage/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/SignUpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/PageObjectMainPageMainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/PageObjectMainPageMainClass.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +168,7 @@
       <workItem from="1580729772533" duration="5641000" />
       <workItem from="1580758548784" duration="6318000" />
       <workItem from="1580795680062" duration="611000" />
-      <workItem from="1580812710798" duration="3618000" />
+      <workItem from="1580812710798" duration="7466000" />
     </task>
     <servers />
   </component>
