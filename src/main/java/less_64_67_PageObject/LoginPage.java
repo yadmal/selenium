@@ -28,7 +28,7 @@ public class LoginPage {
         return this;
     }
 
-    public LoginPage loginWithInvalidCreds(String login, String password){
+    public LoginPage loginWithInvalidFields(String login, String password){
         this.typeLogin(login);
         this.typePassword(password);
         driver.findElement(signInButton).click();

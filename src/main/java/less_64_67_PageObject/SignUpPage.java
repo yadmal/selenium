@@ -35,7 +35,7 @@ public class SignUpPage {
         return this;
     }
 
-    public SignUpPage registerWithInvalidCreds(String username, String email, String password){
+    public SignUpPage registerWithInvalidFields(String username, String email, String password){
         this.typeUserName(username);
         this.typeEmail(email);
         this.typePassword(password);
