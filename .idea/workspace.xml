@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9261973-f282-4de7-b7c0-8a6f2dca045e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SignUpPageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/SignUpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MainClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MainClassTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LoginPageTest">
+  <component name="RunManager" selected="JUnit.All in projectMaven">
+    <configuration name="All in projectMaven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projectMaven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="projectMaven" />
       <option name="PACKAGE_NAME" value="" />
@@ -103,23 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPageTest.registerFailTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="projectMaven" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainPageTest" />
-      <option name="METHOD_NAME" value="registerFailTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in projectMaven" />
         <item itemvalue="JUnit.LoginPageTest" />
         <item itemvalue="JUnit.LoginPageTest.emptyFields" />
         <item itemvalue="JUnit.MainPageTest.emptyFields" />
         <item itemvalue="JUnit.MainPageTest" />
-        <item itemvalue="JUnit.MainPageTest.registerFailTest" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +152,7 @@
       <workItem from="1580812710798" duration="7752000" />
       <workItem from="1580838909290" duration="1415000" />
       <workItem from="1580847228409" duration="2957000" />
-      <workItem from="1580881999813" duration="9678000" />
+      <workItem from="1580881999813" duration="11776000" />
     </task>
     <servers />
   </component>

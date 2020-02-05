@@ -26,12 +26,12 @@ public class MainClassTest {
         Assert.assertEquals("Values aren't equal 2",10, 5+5); // ожидаемый результат, реальный результат
         Assert.assertNotEquals(10, 7+9); // ожидаемый результат, реальный результат
     }
-
-    @Test
-    @Ignore // заставит проигнорировать тест
-    public void method2(){
-
-    }
+//
+//    @Test
+//    @Ignore // заставит проигнорировать тест
+//    public void method2(){
+//
+//    }
 
     // будет выполняться после каждого тестового метода
     @After
