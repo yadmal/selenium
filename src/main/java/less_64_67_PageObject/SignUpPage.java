@@ -16,6 +16,9 @@ public class SignUpPage {
     private By emailField = By.id("user_email");
     private By passwordField = By.id("user_password");
     private By signupButton = By.id("signup_button");
+    private By userNameFieldError = By.xpath("//input[@id='user_login']/ancestor::dl//dd[@class='error']");
+    private By emailFieldError = By.xpath("//input[@id='user_email']/ancestor::dl//dd[@class='error']");
+    private By passwordFieldError = By.xpath("//input[@id='user_password']/ancestor::dl//dd[@class='error']");
 
     public SignUpPage typeUserName(String username){
         driver.findElement(userNameField).sendKeys(username);
@@ -42,5 +45,17 @@ public class SignUpPage {
 
     public String getHeaderText(){
         return driver.findElement(title).getText();
+    }
+
+    public String getUsernameFieldErrorText(){
+        return driver.findElement(userNameFieldError).getText();
+    }
+
+    public String getEmailFieldErrorText(){
+        return driver.findElement(emailFieldError).getText();
+    }
+
+    public String getPasswordFieldErrorText(){
+        return driver.findElement(passwordFieldError).getText();
     }
 }

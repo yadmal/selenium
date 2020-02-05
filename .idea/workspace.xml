@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9261973-f282-4de7-b7c0-8a6f2dca045e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/MainPageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MainClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MainClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/less_64_67_PageObject/SignUpPage.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,55 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MainClassTest.method1">
-    <configuration name="PageObjectMainPageMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less_64_67_PageObject.PageObjectMainPageMainClass" />
-      <module name="projectMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="less_64_67_PageObject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScreenshotsMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less_59_screenshots.ScreenshotsMainClass" />
-      <module name="projectMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="less_59_screenshots.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UploadFilesMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less_60_upload_files.UploadFilesMainClass" />
-      <module name="projectMaven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="less_60_upload_files.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="projectMaven" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainClassTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MainPageTest.emptyFields">
     <configuration name="MainClassTest.method1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="projectMaven" />
       <option name="PACKAGE_NAME" value="" />
@@ -121,13 +75,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projectMaven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.emptyFields" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projectMaven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPageTest" />
+      <option name="METHOD_NAME" value="emptyFields" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.registerFailTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projectMaven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPageTest" />
+      <option name="METHOD_NAME" value="registerFailTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.signIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projectMaven" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPageTest" />
+      <option name="METHOD_NAME" value="signIn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainPageTest.emptyFields" />
+        <item itemvalue="JUnit.MainPageTest" />
+        <item itemvalue="JUnit.MainPageTest.registerFailTest" />
+        <item itemvalue="JUnit.MainPageTest.signIn" />
         <item itemvalue="JUnit.MainClassTest.method1" />
-        <item itemvalue="JUnit.MainClassTest" />
-        <item itemvalue="Application.PageObjectMainPageMainClass" />
-        <item itemvalue="Application.UploadFilesMainClass" />
-        <item itemvalue="Application.ScreenshotsMainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +155,8 @@
       <workItem from="1580795680062" duration="611000" />
       <workItem from="1580812710798" duration="7752000" />
       <workItem from="1580838909290" duration="1415000" />
-      <workItem from="1580847228409" duration="2837000" />
+      <workItem from="1580847228409" duration="2957000" />
+      <workItem from="1580881999813" duration="7025000" />
     </task>
     <servers />
   </component>
